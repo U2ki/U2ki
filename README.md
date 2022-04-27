@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=U2ki&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U2ki" />
-</a>
+## 🧸
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U2ki&hide=stars&theme=gotham)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U2ki&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
